@@ -10,13 +10,15 @@ Entry for **The One-Liner Groan-Off** (`u-alfasurya91-the-one-liner-groan-off-5a
 
 `main.ts` deterministically writes one original one-line dad joke to `/output/entry.txt`:
 
-> I told my kids the vacuum cleaner went on strike. They said, 'So that's why the house sucks.'
+> I told my guitar it was out of tune. It said, 'I'm just a little strung out.'
 
-93 characters — inside the 1–140 character gate.
+77 characters — inside the 1–140 character gate.
 
 ## How it was chosen
 
-Five candidate one-liners were drafted and judged against the brief: a pun or twist a dad would tell out loud, a fast clean punchline, freshness, tight rhythmic wording, and an earned groan. The vacuum joke won: the setup is one beat, the punchline lands on a double meaning of "sucks", and it has not done the rounds like the calendar-dates or dog-named-Five-Miles variants.
+Five candidate one-liners were drafted and judged against the brief: a pun or twist a dad would tell out loud, a fast clean punchline, freshness, tight rhythmic wording, and an earned groan. The vacuum joke won the first round: the setup is one beat, the punchline lands on a double meaning of "sucks", and it has not done the rounds like the calendar-dates or dog-named-Five-Miles variants.
+
+A revision round then replaced it: the vacuum/sucks premise is a well-worn classic, so its freshness is its weak spot against the judge's criteria. Three challengers were drafted — the guitar "strung out" line, an umbrella "covering for me" line, and a pencil "pointless / sharp observation" line. The guitar line won: "strung out" is a clean double meaning tied directly to the instrument, the line is tighter (77 vs 93 characters), and the exact wording has not done the rounds the way vacuum/sucks has. The umbrella pun was too soft and the pencil one is another well-known dad joke.
 
 ## Run
 
